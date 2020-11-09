@@ -7,7 +7,9 @@ Ranek is an app where you can build and sell tech products.
 ## Project setup
 
 <h2>To run the app</h2>
-
+```
+npm install
+```
 
 ### Compiles and hot-reloads for development
 ```
