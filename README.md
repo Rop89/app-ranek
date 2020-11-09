@@ -33,14 +33,14 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <h2>Getting started</h2>
 
-###Open ranek-api folder in your code editor.
+### Open Ranek-Api folder in your Code Editor
 
-###Install JSON Server
+### Install JSON server
 
 ```
 npm install -g json-server
 ```
-###Start JSON Server
+### Start JSON server
 ```
 json-server --watch ranek.json
 ```
