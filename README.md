@@ -1,4 +1,4 @@
-<h1 align="center" font-size="50px"> 
+<h1 align="center"> 
   <img alt="Ranek" title="Ranek" src="src/assets/ranek.svg"/>
 </h1>
 
