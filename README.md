@@ -4,9 +4,6 @@
 
 Ranek is an app where you can build and sell tech products.
 
-# app-ranek
-
-
 ## Project setup
 ```
 npm install
