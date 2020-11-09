@@ -1,5 +1,8 @@
-# app-ranek
-<<<<<<< HEAD
+<h1 align="center"> 
+  <img alt="Ranek" title="Ranek" src="src/assets/ranek.svg"/>
+</h1>
+
+Ranek is an app where you can build and sell tech products.
 
 ## Project setup
 ```
@@ -23,6 +26,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-App where user can buy tech-products
->>>>>>> b94728990b5450dff4b4070ca9d545b66f1727fe
